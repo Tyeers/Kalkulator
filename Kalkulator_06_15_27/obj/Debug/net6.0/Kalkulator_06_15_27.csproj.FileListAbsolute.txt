@@ -1,0 +1,15 @@
+D:\Semester 1\_DPK\Kalkulator_06_15_27\obj\Debug\net6.0\Kalkulator_06_15_27.csproj.AssemblyReference.cache
+D:\Semester 1\_DPK\Kalkulator_06_15_27\obj\Debug\net6.0\Kalkulator_06_15_27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 1\_DPK\Kalkulator_06_15_27\obj\Debug\net6.0\Kalkulator_06_15_27.AssemblyInfoInputs.cache
+D:\Semester 1\_DPK\Kalkulator_06_15_27\obj\Debug\net6.0\Kalkulator_06_15_27.AssemblyInfo.cs
+D:\Semester 1\_DPK\Kalkulator_06_15_27\obj\Debug\net6.0\Kalkulator_06_15_27.csproj.CoreCompileInputs.cache
+D:\Semester 1\_DPK\Kalkulator_06_15_27\bin\Debug\net6.0\Kalkulator_06_15_27.exe
+D:\Semester 1\_DPK\Kalkulator_06_15_27\bin\Debug\net6.0\Kalkulator_06_15_27.deps.json
+D:\Semester 1\_DPK\Kalkulator_06_15_27\bin\Debug\net6.0\Kalkulator_06_15_27.runtimeconfig.json
+D:\Semester 1\_DPK\Kalkulator_06_15_27\bin\Debug\net6.0\Kalkulator_06_15_27.dll
+D:\Semester 1\_DPK\Kalkulator_06_15_27\bin\Debug\net6.0\Kalkulator_06_15_27.pdb
+D:\Semester 1\_DPK\Kalkulator_06_15_27\obj\Debug\net6.0\Kalkulator_06_15_27.dll
+D:\Semester 1\_DPK\Kalkulator_06_15_27\obj\Debug\net6.0\refint\Kalkulator_06_15_27.dll
+D:\Semester 1\_DPK\Kalkulator_06_15_27\obj\Debug\net6.0\Kalkulator_06_15_27.pdb
+D:\Semester 1\_DPK\Kalkulator_06_15_27\obj\Debug\net6.0\Kalkulator_06_15_27.genruntimeconfig.cache
+D:\Semester 1\_DPK\Kalkulator_06_15_27\obj\Debug\net6.0\ref\Kalkulator_06_15_27.dll
